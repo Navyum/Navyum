@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello GitHub Fans 👋
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-<!--
-**Navyum/Navyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Navyum
 
-Here are some ideas to get you started:
+### ✨ Quick Facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently working @Tencent (Golang & C++ Dev.)
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about anything related to Golang, DB, Java
+- ⚡️ Fun-Fact: I working out at 8am 🙃
+- 🎿 Hobbies other than coding : Reading or about History and Philosophical , Playing Games, Thinking about writing blogs🤖..
+- 📫 How to reach me: 
+- 📖 My Blog：[我的技术分享]()
+
+### 🛠 技术栈 | Tech Stack
+
+Openresty、Nginx、Golang、Lua、MySQL、Linux、Kubernetes、Service Mesh
+
+### 📄文章 | Articles
+
+
+### 🪴More about me
+
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
