@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"  width=380 height=280 />
-
+<img align="center"  src="https://github.com/anuraghazra/github-readme-stats"  width=380 height=280 />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navyum&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm Navyum
