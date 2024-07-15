@@ -6,22 +6,20 @@
 ### I'm Navyum
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @Shanghai (Lua & Golang & Python & C++ Dev.)
-- 🌱 I’m currently learning Rust
-- 💬 Ask me about anything related to Golang, DB, Java
-- ⚡️ Fun-Fact: I working out at 8am 🙃
-- 🎿 Hobbies other than coding : Reading or about History and Philosophical , Playing Games, Thinking about writing blogs🤖..
-- 📫 How to reach me: 
+- 👨🏽‍💻 Working @Shanghai (Lua & Golang & Python & C++ Dev.)
+- 🌱 Currently learning `Golang`
+- 💬 Ask me about anything related to Openresty、Golang, DB
+- 🎿 Hobbies: Reading, Listening Music, Playing Games
+- 📫 How to contact me： QQ 706543191 
 - 📖 My Blog：[我的技术分享]()
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Technology Stack
 
 Openresty、Nginx、Golang、Lua、MySQL、Linux、Kubernetes、Service Mesh
 
-### 📄文章 | Articles
+### 📄Articles
 
 
-### 🪴More about me
+### 🪴About me
 
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+> ***I love to make friends. So Say 'hi' any time !😊***
