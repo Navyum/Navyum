@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyum&show_icons=true&theme=radical&langs_count=5&card_width=500" />
 </a>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"  width=380 height=280 />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"  width=360 height=280 />
 
 ### I'm Navyum
 ### ✨ Quick Facts
